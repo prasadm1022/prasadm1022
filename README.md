@@ -8,6 +8,10 @@
 <img align="top" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=prasadm1022&theme=transparent&show_icons=true&hide_border=true" />
 <img align="top" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadm1022&theme=transparent&layout=compact&langs_count=5&hide_border=true" />
 
+## 🚀 Recent Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasadm1022&theme=github-dark)
+
 ## 🛠️ Tech Stacks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,9 +59,5 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-## 🚀 Recent Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasadm1022&theme=github-dark)
 
 </div>
